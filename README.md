@@ -1,0 +1,1 @@
+This is a coursework project collaborated with students from Epidemiology, Nursing, and Biostatistics to design a double-blind, randomized controlled trial comparing the effectiveness of Valacyclovir and Acyclovir in preventing recurrent HSV-2 meningitis. Our written report was ranked 1/10 in the class.
